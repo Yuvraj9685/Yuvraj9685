@@ -1,6 +1,6 @@
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; GIFs For Readme &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; ABOUT ME &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
-<b># 💫About Me:</b><br>
+
 <br>-Passionate and results-driven developer with a strong foundation in both frontend and backend technologies.<br>-Frontend: Proficient in HTML, CSS, and JavaScript, with hands-on experience building responsive and interactive user interfaces.<br>-Backend: Skilled in Python and C/C++ for robust server-side development and logic implementation.<br>-Frameworks: Experienced in using React to create dynamic and scalable web applications.<br>-Databases: Familiar with MongoDB and MySQL for efficient data storage and retrieval.<br>-Soft Skills:<br>Effective team management and collaboration<br>Strong time management to meet deadlines<br>Excellent communication for clear and productive interactions<br>Always eager to learn new technologies and contribute to impactful projects.
 
 <img align = "right" alt = "coding" width = "200"src = "https://gifs.alphacoders.com/gifs/view/209661"/>
