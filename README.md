@@ -3,7 +3,7 @@
 <b># 💫About Me:</b><br>
 <br>-Passionate and results-driven developer with a strong foundation in both frontend and backend technologies.<br>-Frontend: Proficient in HTML, CSS, and JavaScript, with hands-on experience building responsive and interactive user interfaces.<br>-Backend: Skilled in Python and C/C++ for robust server-side development and logic implementation.<br>-Frameworks: Experienced in using React to create dynamic and scalable web applications.<br>-Databases: Familiar with MongoDB and MySQL for efficient data storage and retrieval.<br>-Soft Skills:<br>Effective team management and collaboration<br>Strong time management to meet deadlines<br>Excellent communication for clear and productive interactions<br>Always eager to learn new technologies and contribute to impactful projects.
 
-<img align = "right" alt = "coding" width = "200"src = "https://gifs.alphacoders.com/gifs/view/209661">
+<img align = "right" alt = "coding" width = "200"src = "https://gifs.alphacoders.com/gifs/view/209661"/>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Mm3DcnRy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-kushwah-8594592ab?) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@yuvrajkushwah6037) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvraj1513.an@gmail.com) 
