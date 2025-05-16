@@ -6,6 +6,7 @@
 <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJuNzl5a2s0bWU4cGR6bXhyaDUzZ3N3amxzcXhmeWRnbHpnZGNkcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MeJgB3yMMwIaHmKD4z/200.webp" alt = "coding" width = "300"  align = "right"/>
 
 ## 🌐 Socials:
+<img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="100"> <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100">
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Mm3DcnRy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-kushwah-8594592ab?) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@yuvrajkushwah6037) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvraj1513.an@gmail.com) 
 
 # 💻 Tech Stack:
