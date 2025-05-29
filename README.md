@@ -2,7 +2,7 @@
 
 
 <br>-Passionate and results-driven developer with a strong foundation in both frontend and backend technologies.<br>-Frontend: Proficient in HTML, CSS, and JavaScript, with hands-on experience building responsive and interactive user interfaces.<br>-Backend: Skilled in Python and C/C++ for robust server-side development and logic implementation.<br>-Frameworks: Experienced in using React to create dynamic and scalable web applications.<br>-Databases: Familiar with MongoDB and MySQL for efficient data storage and retrieval.<br>-Soft Skills:<br>Effective team management and collaboration<br>Strong time management to meet deadlines<br>Excellent communication for clear and productive interactions<br>Always eager to learn new technologies and contribute to impactful projects.
-<p>This is a change</p>
+
 
 <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJuNzl5a2s0bWU4cGR6bXhyaDUzZ3N3amxzcXhmeWRnbHpnZGNkcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MeJgB3yMMwIaHmKD4z/200.webp" alt = "coding" width = "300"  align = "right"/>
 
