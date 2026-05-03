@@ -1,7 +1,7 @@
 <!-- Hero Banner -->
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Yuvraj%20Kushwah&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiastr%20%7C%20AI%20&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Yuvraj%20Kushwah&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20AI%20&descAlignY=55&descAlign=50)
 
 </div>
 
