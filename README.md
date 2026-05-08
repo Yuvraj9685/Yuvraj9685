@@ -26,7 +26,7 @@
 - ⚙️ Skilled in **Backend (Python, C/C++)**
 - 🧠 Exploring **Machine Learning & AI**
 - 🗄️ Experience with **MongoDB & MySQL**
-- 🤝 Good at **teamwork & communication**
+- 🤝 Good at **teamwork & commmunication**
 - ⏱️ Strong **time management & problem-solving**
 
 ---
